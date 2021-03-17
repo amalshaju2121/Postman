@@ -1,0 +1,23 @@
+{
+	"info": {
+		"_postman_id": "7bc84dfb-d1a5-409f-804f-ef9c253b05fe",
+		"name": "data",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}",
+					"host": [
+						"{{endpoint}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
